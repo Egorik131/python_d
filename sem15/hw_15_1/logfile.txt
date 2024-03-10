@@ -1,0 +1,4 @@
+INFO     - 2024-03-10 16:35:35,228. Модуль "logger", функция "log_make" | PathObject(name='hw_15_1', extension='py', flag_dir=False, parent='hw_15_1')
+INFO     - 2024-03-10 16:35:35,229. Модуль "logger", функция "log_make" | PathObject(name='logfile', extension='txt', flag_dir=False, parent='hw_15_1')
+INFO     - 2024-03-10 16:35:35,229. Модуль "logger", функция "log_make" | PathObject(name='logger', extension='py', flag_dir=False, parent='hw_15_1')
+INFO     - 2024-03-10 16:35:35,229. Модуль "logger", функция "log_make" | PathObject(name='logger', extension='py', flag_dir=True, parent='hw_15_1')
